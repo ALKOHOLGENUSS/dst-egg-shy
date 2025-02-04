@@ -1,5 +1,6 @@
-return {
+KLEI     1 return {
     override_enabled = true,
-    preset = "DST_CAVE",
+    worldgen_preset = "DST_CAVE",
+    settings_preset = "DST_CAVE",
     overrides = {},
 }
